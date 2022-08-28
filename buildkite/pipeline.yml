@@ -1,5 +1,3 @@
 steps:
   - label: ":pipeline: Pipeline upload"
-  - executor: docker
-    - "do thing"
   - command: echo "complete!!!"
