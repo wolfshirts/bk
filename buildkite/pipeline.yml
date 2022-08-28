@@ -1,3 +1,5 @@
 steps:
   - label: ":pipeline: Pipeline upload"
     command: echo "complete!!!"
+  - name: "configure easy container"
+    executor: "something"
